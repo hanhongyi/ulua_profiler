@@ -1,0 +1,1 @@
+%NDK_ROOT%\ndk-build.cmd NDK_PROJECT_PATH=null APP_BUILD_SCRIPT=Android.mk APP_PLATFORM=android-19 NDK_OUT=obj NDK_LIBS_OUT=libs APP_STL=gnustl_static APP_ABI="armeabi-v7a x86"

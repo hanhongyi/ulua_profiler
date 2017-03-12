@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "89eff24a-8e92-11e5-81ee-0109a3993b8f++8811",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "89eff24a-8e92-11e5-81ee-0109a3993b8f++2259" : {
+
+    },
+    "89eff24a-8e92-11e5-81ee-0109a3993b8f++8811" : {
+      "DVTSourceControlWorkingCopyRepositoryBranchesLocationKey" : "branches",
+      "DVTSourceControlWorkingCopyRepositoryTagsLocationKey" : "tags",
+      "DVTSourceControlWorkingCopyRepositoryPrimaryBranchLocationKey" : "trunk"
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "89eff24a-8e92-11e5-81ee-0109a3993b8f++2259" : 9223372036854775807,
+    "89eff24a-8e92-11e5-81ee-0109a3993b8f++8811" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1D74AEED-4803-4164-B774-8375E2A5F3C1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "89eff24a-8e92-11e5-81ee-0109a3993b8f++2259" : "uLua\/ios\/cjson\/",
+    "89eff24a-8e92-11e5-81ee-0109a3993b8f++8811" : "uLua\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ulua",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ios\/ulua\/ulua.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/bigsvr\/xx",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "89eff24a-8e92-11e5-81ee-0109a3993b8f++2259"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/124.205.218.132\/xx",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "89eff24a-8e92-11e5-81ee-0109a3993b8f++8811"
+    }
+  ]
+}
